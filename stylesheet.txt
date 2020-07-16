@@ -1,0 +1,35 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-htmlacademy {
+    width: 27px;
+    height: 34px;
+    background-position: -6px -6px;
+}
+
+.sprite-icon-fb {
+    width: 8px;
+    height: 16px;
+    background-position: -45px -6px;
+}
+
+.sprite-icon-insta {
+    width: 14px;
+    height: 14px;
+    background-position: -65px -6px;
+}
+
+.sprite-icon-vk {
+    width: 20px;
+    height: 11px;
+    background-position: -91px -6px;
+}
+
+.sprite-quotes {
+    width: 41px;
+    height: 31px;
+    background-position: -123px -6px;
+}
