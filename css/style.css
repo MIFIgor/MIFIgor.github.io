@@ -805,7 +805,7 @@ header .slogan {
 
   .footer-author a:hover {
     text-decoration: underline;
-    text-weight: bold;
+    font-weight: bold;
   }
 
   .footer-author a:active {
