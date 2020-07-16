@@ -13,7 +13,7 @@ header {
   padding-top: 60px;
   background-color: #363636;
   color: #fff;
-  background-image: url(img/wheat-back.jpg);
+  background-image: url('img/wheat-back.jpg');
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
@@ -275,15 +275,15 @@ td {
 }
 
 .feature-themselves {
-  background: url(img/icon-brew.png) top left no-repeat;
+  background: url('img/icon-brew.png') top left no-repeat;
 }
 
 .feature-native {
-  background: url(img/icon-matreshka.png) 93px 0 no-repeat;
+  background: url('img/icon-matreshka.png') 93px 0 no-repeat;
 }
 
 .feature-not-economize {
-  background: url(img/icon-thumbsup.png) 95px 0 no-repeat;
+  background: url('img/icon-thumbsup.png') 95px 0 no-repeat;
 }
 
 
@@ -416,7 +416,7 @@ td {
   height: 65px;
   left: -105px;
   top: 5px;  
-  background-image: url(spritesheet.png);
+  background-image: url('spritesheet.png');
   background-repeat: no-repeat;
   background-position: -123px -6px;
 }
@@ -745,7 +745,7 @@ td {
     display: inline-block;
     vertical-align: middle;
     background-color: #1b1b1b;
-    background-image: url(spritesheet1.png);
+    background-image: url('spritesheet1.png');
     background-repeat: no-repeat;
   }
 
